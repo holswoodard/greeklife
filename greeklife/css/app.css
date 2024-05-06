@@ -1,0 +1,38 @@
+
+
+body {
+  background-color:#ffecf2;
+
+.font1 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <500>;
+  font-style: normal;
+}
+}
+
+
+.photo1{
+
+padding:20px;
+margin: 0px 0px 70px 100px;
+
+}
+
+.extrapage{
+  text-align: center;
+  color: indianred;
+ }
+
+ .video2{
+
+align-content: center;
+
+ }
+
+ .canva{
+
+padding:100px;
+margin: 0px 0px 70px 100px;
+
+ }
